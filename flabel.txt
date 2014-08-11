@@ -1,0 +1,7 @@
+cd, name, bettername
+1, tBodyAcc-mean()-X, AverageMeanX
+2, tBodyAcc-mean()-Y, AverageMeanY
+3, tBodyAcc-mean()-Z, AverageMeanZ
+4, tBodyAcc-std()-X,  SdAverageX
+5, tBodyAcc-std()-Y,  SdAverageY
+6, tBodyAcc-std()-Z, SdAverageZ
