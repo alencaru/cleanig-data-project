@@ -68,7 +68,7 @@ colnames(tidy.data)[1]<-c("Activity")
 
 ## --- creating a final independent csv file
 
-write.table(tidy.data, file="tity-data.csv", sep=",", col.names=TRUE,row.names=FALSE)
+write.table(tidy.data, file="tidy-data.csv", sep=",", col.names=TRUE,row.names=FALSE)
 
 
 
@@ -106,4 +106,4 @@ write.table(tidy.data, file="tity-data.csv", sep=",", col.names=TRUE,row.names=F
 # colnames(tab)[2]<-c("Activity")
 # 
 #          #---creation of tidy dataset grouped by type: test or train data.
-# write.table(tab, file="tity-dataset.csv", sep=",", col.names=TRUE,row.names=FALSE)
+# write.table(tab, file="tidy-dataset.csv", sep=",", col.names=TRUE,row.names=FALSE)
