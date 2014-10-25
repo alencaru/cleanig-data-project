@@ -5,7 +5,7 @@ CODEBOOK
 
 ####AUTHOR: Igor Demetrius Alencar
 
-In this project the file 'run_analysis.R' performs all the merges and transformations in the input datasets. It generate as well the 'tity-dataset.csv' as an output.
+In this project the file 'run_analysis.R' performs all the merges and transformations in the input datasets. It generates as well the 'tity-dataset.csv' as an output.
 
 - The input data is 'x_test', 'y_test' and 'x_train', 'y_train' as main Raw data.
 
