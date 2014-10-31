@@ -1,6 +1,6 @@
 ###That file describes how the run_analysis.R script works
 
-####1 The first part of the script set all files into objects in R.
+####1 The first part of the script sets all files into objects in R.
 The objects are:
 - activity_label as **label**
 - features.txt as **clabel**
